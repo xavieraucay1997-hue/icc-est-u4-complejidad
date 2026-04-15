@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Práctica: 04.01 Complejidad Proyecto JAVA
 
 ## Datos del Estudiante
@@ -22,3 +23,8 @@
 
 **Descripción:** Creamos la clase estudiante y generador y creamos un listado de estudiantes para buscar y optimizar la busqueda.
 ---
+=======
+practica 04.01.fecha 14/04
+creamos el proyecto practica 
+acabamos creando 5 clases de java
+>>>>>>> cba6b51445e079d7cd28251b824a98b779b80b30
